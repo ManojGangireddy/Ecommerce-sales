@@ -1,3 +1,3 @@
-Here is the Power Bi project where i hgave inlluded the dashboards eher it will help you to see the given data in persecpyibe of regio and salses by age group a, sales by gender and sdales by location.
-the differentdashoard will show yoyu the informatho about the chat and analusis of the ecommerce webiste how it enet for speciofuc period of time
-I have inclided the exce raw fie, which is use dto analyse the data.
+Here is my Power BI project, which includes dashboards that provide insights into various data aspects, such as sales by age group, gender, and location.
+Each dashboard offers a comprehensive view of the e-commerce website's performance over a specified time period, along with detailed charts and analyses.
+Additionally, I have included the raw Excel file used for data analysis. I hope you find this information useful.
